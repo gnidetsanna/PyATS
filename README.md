@@ -11,11 +11,11 @@ Training project for mastering PyATS testing ecosystem on the topology created i
 In the directory you cloned/unpacked project:
 ```bash
 vagrant init ubuntu/bionic64
-vagrant up
 ```
 
 ## Usage
 ```bash
+vagrant up
 vagrant ssh -- -R 5002:localhost:5002 -R 5003:localhost:5003 -R 5004:localhost:5004
 cd /vagrant/
 python3 connectivity_test.py
