@@ -7,13 +7,7 @@ Training project for mastering PyATS testing ecosystem on the topology created i
 * Vagrant
 * Oracle VM VirtualBox
 
-## Installation
-In the directory you cloned/unpacked project:
-```bash
-vagrant init ubuntu/bionic64
-```
-
-## Usage
+## Project deploy / usage
 ```bash
 vagrant up
 vagrant ssh -- -R 5002:localhost:5002 -R 5003:localhost:5003 -R 5004:localhost:5004
