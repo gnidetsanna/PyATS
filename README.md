@@ -18,7 +18,7 @@ PyATS training program for GNS3 lab
 
 
 ## Topology​
-![alt tag](https://files.slack.com/files-pri/TV7F4SATU-F014BG19JKC/ports_screenshot.png "Ports")​       
+![alt tag](topology.png "Ports")​       
 
 
 
