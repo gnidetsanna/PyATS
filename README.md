@@ -4,8 +4,9 @@ PyATS training program for GNS3 lab
 
 ## Requirements
 
-* Vagrant
-* Oracle VM VirtualBox
+* Python 3.6.9
+* Vagrant (https://www.vagrantup.com/downloads.html)
+* Oracle VM VirtualBox (https://www.virtualbox.org/wiki/Downloads)
 
 ## Project start
 
